@@ -1,8 +1,5 @@
 ### Hi there! 👋
-I'm primarily a ROS2 Robotics developer.
-
-My stats are pretty weak for now, but I'm working on them!
-
+I'm a Robotics Software Developer working with ROS2 based technologies.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serafadam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
